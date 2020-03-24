@@ -10,4 +10,5 @@ repository the first version was copied.
 
 ## Changelog
 
+  * Adaption of Color7 to support a highlighting used by `watson`.
   * Adaptions to two colours to support zsh-autosuggestions.
