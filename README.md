@@ -2,11 +2,17 @@
 
 This is an adaption of the [PaperColor
 theme](https://github.com/NLKNguyen/papercolor-theme) for the KDE terminal
-Konsole. To enable Konsole to use it, copy the colour scheme file to
+emulator Konsole.
+
+Many thanks go to [z2oh](https://github.com/z2oh|z2oh). From his dotfiles
+repository the first version of this colour scheme was copied.
+
+
+## Installation
+
+To add this colour scheme to Konsole, copy the colour scheme file to
 `.local/share/konsole/`. Then you will be able to select it in the dialogs.
 
-Many thanks go to [z2oh](https://github.com/z2oh|z2oh) as from his dotfiles
-repository the first version was copied.
 
 
 ## Changelog
