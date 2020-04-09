@@ -8,6 +8,12 @@ Many thanks go to [z2oh](https://github.com/z2oh|z2oh). From his dotfiles
 repository the first version of this colour scheme was copied.
 
 
+## Gallery
+
+<img src="https://raw.github.com/MaxG87/konsole-papercolor/master/screenshots/manpage-and-highligt.png" width="400"/>
+<img src="https://raw.github.com/MaxG87/konsole-papercolor/master/screenshots/watson-grey.png" width="400"/>
+<img src="https://raw.github.com/MaxG87/konsole-papercolor/master/screenshots/zsh.png" width="400"/>
+
 ## Installation
 
 To add this colour scheme to Konsole, copy the colour scheme file to
