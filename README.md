@@ -28,11 +28,11 @@ makes it much easier to test certain changes.
 Colour Name | Known Usage
 ----------- | -----------
 Background | <ul><li>normal background</li></ul>
-Color0 | <ul><li>Schriftfarbe im ZSH-Prompt-Text und in der Tmux-Status-Zeile</li><li>Schatten der Box in needrestart</li><li>Hintergrundfarbe der Geräte bei `ls /dev/sd*`</li></ul>
-Color0Intense | <ul><li>ZSH Smartsuggestions</li></ul>
-Color1 | <ul><li>ZSH-Kreuz bei [[ $? -ne 0 ]]</li><li>Schriftfarbe markierter Einträge in Mutts Index</li></ul>
-Color1Intense | <ul><li>ZSH nicht gefundener Befehl</li><li>Angaben nicht-lokaler Branches `git log`</li><li>Archive bei ls oder exa</li></ul>
-Color2 | <ul><li>Hintergrundfarbe der Tmux-Status-Zeile</li><li>Schriftfarbe für Zeitangaben in `watson status`</li><li>bekannter Befehl in ZSH</li></ul>
+Color0 | <ul><li>Zsh prompt text's font colour</li><li>Tmux status bar's font colour</li><li>needrestart's box' shadow</li><li>background colour of devices in the output of `ls /dev/sd*`</li></ul>
+Color0Intense | <ul><li>Zsh smart suggestions</li></ul>
+Color1 | <ul><li>Zsh's failure cross for error exit codes</li><li>_marked as important_ messages' font colour in Mutt's index</li></ul>
+Color1Intense | <ul><li>font colour if Zsh cannot find a command</li><li>font colour of remote branches in output of `git log`</li><li>archives (eg `*.xz` or `*.zst`) in output of `ls` or `exa`</li></ul>
+Color2 | <ul><li>Hintergrundfarbe der Tmux-Status-Zeile</li><li>Schriftfarbe für Zeitangaben in `watson status`</li><li>bekannter Befehl in Zsh</li></ul>
 Color2Intense | <ul><li>lokale Branchangaben in `git log`</li><li>Dateinamen in Ausgabe von ag</li><li>Prompt-Nummer in IPython</li></ul>
 Color3 | <ul><li>Hervorhebungen der Treffer bei Suchen mit `ag`</li><li>ZSH-Prompt-Balken in Git-Repositories mit Änderungen</li><li>Hervorhebung der ausgewählten Zeile in Mutts Index</li></ul>
 Color3Intense | <ul><li>Tagangaben in `git log`</li><li>Zeilennummern in Ausgabe von ag</li><li>JSON-Dateien bei ls und exa</li><li>Schriftfarbe der Gerätenamen bei `ls /dev/sd*`</li></ul>
