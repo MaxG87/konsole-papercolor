@@ -50,5 +50,8 @@ ForegroundFaint | <ul><li>Zsh's update message's font colour for commands (e.g. 
 
 ## Changelog
 
+- 2023-05-10: Improved colours slightly. Colours appear more clear and not
+  greyish. Also, unused colours have signal values now to be directly
+  detectable.
 - Adaption of Color7 to support a highlighting used by `watson`.
 - Adaptions to two colours to support zsh-autosuggestions.
