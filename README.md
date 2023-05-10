@@ -46,7 +46,10 @@ Color7 | <ul><li>Mutt' header's font colour</li><li>deleted entries' font colour
 Color7Intense | <ul><li>font colour of currently selected messages in Mutt's index</li></ul>
 ForegroundFaint | <ul><li>Zsh's update message's font colour for commands (e.g. `quarkus`)</li></ul>
 
+## Contributing
 
+For faint colours, no usage could be found. If you spot one, please create an
+issue to let me know.
 
 ## Changelog
 
