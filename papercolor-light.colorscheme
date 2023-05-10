@@ -1,92 +1,92 @@
 [Background]
-Color=238,238,237
+Color=#eeeeed
 
 [BackgroundFaint]
-Color=238,238,237
+Color=#eeeeed
 
 [BackgroundIntense]
-Color=238,238,237
+Color=#eeeeed
 
 [Color0]
-Color=76,76,75
+Color=#4c4c4b
 
 [Color0Faint]
-Color=76,76,75
+Color=#4c4c4b
 
 [Color0Intense]
-Color=158,158,158
+Color=#9e9e9e
 
 [Color1]
-Color=214,34,94
+Color=#d6225e
 
 [Color1Faint]
-Color=214,34,94
+Color=#d6225e
 
 [Color1Intense]
-Color=214,34,94
+Color=#d6225e
 
 [Color2]
-Color=113,140,0
+Color=#718c0
 
 [Color2Faint]
-Color=113,140,0
+Color=#718c0
 
 [Color2Intense]
-Color=113,140,0
+Color=#718c0
 
 [Color3]
-Color=215,94,0
+Color=#d75e0
 
 [Color3Faint]
-Color=215,94,0
+Color=#d75e0
 
 [Color3Intense]
-Color=215,94,0
+Color=#d75e0
 
 [Color4]
-Color=66,113,173
+Color=#4271ad
 
 [Color4Faint]
-Color=66,113,173
+Color=#4271ad
 
 [Color4Intense]
-Color=66,113,173
+Color=#4271ad
 
 [Color5]
-Color=137,89,168
+Color=#8959a8
 
 [Color5Faint]
-Color=137,89,168
+Color=#8959a8
 
 [Color5Intense]
-Color=137,89,168
+Color=#8959a8
 
 [Color6]
-Color=62,152,159
+Color=#3e989f
 
 [Color6Faint]
-Color=62,152,159
+Color=#3e989f
 
 [Color6Intense]
-Color=62,152,159
+Color=#3e989f
 
 [Color7]
-Color=158,158,158
+Color=#9e9e9e
 
 [Color7Faint]
-Color=238,238,237
+Color=#eeeeed
 
 [Color7Intense]
-Color=238,238,237
+Color=#eeeeed
 
 [Foreground]
-Color=76,76,75
+Color=#4c4c4b
 
 [ForegroundFaint]
-Color=76,76,75
+Color=#4c4c4b
 
 [ForegroundIntense]
-Color=26,26,26
+Color=#1a1a1a
 
 [General]
 Blur=false
