@@ -11,9 +11,14 @@ repository the first version of this colour scheme was copied.
 
 ## Gallery
 
-<img src="https://raw.github.com/MaxG87/konsole-papercolor/master/screenshots/manpage-and-highligt.png" width="400"/>
-<img src="https://raw.github.com/MaxG87/konsole-papercolor/master/screenshots/watson-grey.png" width="400"/>
-<img src="https://raw.github.com/MaxG87/konsole-papercolor/master/screenshots/zsh.png" width="400"/>
+### Man Page of Bash with Search Highlight of 'Bourne-Again'
+<img src="https://raw.github.com/MaxG87/konsole-papercolor/main/screenshots/manpage-and-highligt.png" width="400"/>
+
+### Zsh Prompt and Several Watson Colours
+<img src="https://raw.github.com/MaxG87/konsole-papercolor/main/screenshots/watson-grey.png" width="400"/>
+
+### Zsh Prompt Icons and Smart Suggestion
+<img src="https://raw.github.com/MaxG87/konsole-papercolor/main/screenshots/zsh.png" width="400"/>
 
 ## Installation
 
@@ -31,7 +36,7 @@ Background | <ul><li>normal background</li></ul>
 Color0 | <ul><li>Zsh prompt text's font colour</li><li>Tmux status bar's font colour</li><li>needrestart's box' shadow</li><li>background colour of devices in the output of `ls /dev/sd*`</li></ul>
 Color0Intense | <ul><li>Zsh smart suggestions</li></ul>
 Color1 | <ul><li>Zsh's failure cross for error exit codes</li><li>_marked as important_ messages' font colour in Mutt's index</li></ul>
-Color1Intense | <ul><li>font colour if Zsh cannot find a command</li><li>font colour of remote branches in output of `git log`</li><li>archives (eg `*.xz` or `*.zst`) in output of `ls` or `exa`</li></ul>
+Color1Intense | <ul><li>font colour if Zsh cannot find a command</li><li>font colour of remote branches in output of `git log`</li><li>archives () in output of `ls` or `exa`</li></ul>
 Color2 | <ul><li>Tmux' status bar's background colour</li><li>font colour for time specification of `watson status`</li><li>font colour for known commands in Zsh</li></ul>
 Color2Intense | <ul><li>font colour of local branches in output of `git log`</li><li>font colour of file names in output of `ag`</li><li>number of current prompt in IPython</li></ul>
 Color3 | <ul><li>highlight of matches in `ag`'s search results</li><li>Zsh' prompt bar in dirty Git repositories</li><li>highlight of currently selected messages in Mutt's index</li></ul>
