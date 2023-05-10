@@ -1,4 +1,5 @@
 # Colour Scheme PaperColor for KDE Konsole
+
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 This is an adaption of the [PaperColor
@@ -7,7 +8,6 @@ theme](https://github.com/NLKNguyen/papercolor-theme) for the
 
 Many thanks go to [z2oh](https://github.com/z2oh|z2oh). From his dotfiles
 repository the first version of this colour scheme was copied.
-
 
 ## Gallery
 
@@ -20,9 +20,7 @@ repository the first version of this colour scheme was copied.
 To add this colour scheme to Konsole, copy the colour scheme file to
 `.local/share/konsole/`. Then you will be able to select it in the dialogs.
 
-
-
 ## Changelog
 
-  * Adaption of Color7 to support a highlighting used by `watson`.
-  * Adaptions to two colours to support zsh-autosuggestions.
+- Adaption of Color7 to support a highlighting used by `watson`.
+- Adaptions to two colours to support zsh-autosuggestions.
